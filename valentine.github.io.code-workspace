@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../GitHub/valentine.github.io"
+		},
+		{
+			"path": "../../../Downloads/coffee"
+		},
+		{
+			"path": "../vday/food"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "valentine.github.io",
+		"liveServer.settings.port": 5501
+	}
+}
